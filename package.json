@@ -1,0 +1,9 @@
+{
+  "name": "pure-reactive",
+  "type": "module",
+  "main": "./src/index.ts",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
